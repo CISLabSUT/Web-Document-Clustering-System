@@ -3,7 +3,7 @@
 <h1>Intoroduction</h1>
 Document clustering, as one of the methods of unsupervised machine learning, is widely used in various fields of natural language processing such as information retrieval, automated multi-text summary, etc.
 <br>
-In this project, we implement k-means algorithm on documents and it can cluster all news.
+In this project, we implement k-means algorithm on documents.
 
 
 <h1>Download</h1>
